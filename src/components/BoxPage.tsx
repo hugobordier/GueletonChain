@@ -16,6 +16,7 @@ import {
   Hash,
 } from "lucide-react";
 import { useState } from "react";
+import "./BoxPage.css";
 
 const BoxPage = () => {
   const { uuid } = useParams<{ uuid: string }>();

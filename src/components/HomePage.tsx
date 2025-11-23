@@ -455,9 +455,12 @@ const HomePage = () => {
               fontSize: "1rem",
               color: "#667eea",
               fontWeight: "bold",
+              wordBreak: "break-all",
             }}
           >
-            https://gueuleton-dao.com/box/[UUID]
+            {typeof window !== "undefined"
+              ? `${window.location.origin}/box/[UUID]`
+              : "https://gueuleton-dao.com/box/[UUID]"}
           </div>
           <p
             style={{
@@ -467,7 +470,7 @@ const HomePage = () => {
               fontSize: "0.9rem",
             }}
           >
-            Exemples : box-001-terroir-automne, box-002-terroir-hiver
+            Exemples d'UUID : a3f7b2e1-4c9d-4a8b-9e2f-1d6c8a5b3e7f
           </p>
         </div>
 
