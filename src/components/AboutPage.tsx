@@ -2,8 +2,6 @@ import { Link } from "react-router-dom";
 import {
   Shield,
   Award,
-  TrendingUp,
-  Users,
   Blocks,
   Wallet,
   Vote,
