@@ -639,7 +639,7 @@ export const boxes: Record<string, Box> = {
             location: "Sac en papier kraft",
             status: "Transport - À pied vers l'EPF",
             temperature: "20°C ✓",
-            actor: "Portée avec précaution",
+            actor: "Portée avec précaution en Mégane 2",
             blockchainHash: "0xTR4NSP0RT...P13D",
           },
           {
