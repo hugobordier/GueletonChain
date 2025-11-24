@@ -452,7 +452,7 @@ export const boxes: Record<string, Box> = {
         id: "prod-charcuterie-001",
         name: "Saucisson Sec Tradition",
         type: "charcuterie",
-        image: "/src/assets/saucisson.jpeg",
+        image: "/assets/saucisson.jpeg",
         producer: {
           name: "Maison Blockchain & Fils",
           location: "Satoshi Valley, Silicon Alps (73)",
@@ -465,7 +465,7 @@ export const boxes: Record<string, Box> = {
           walletAddress: "0xSAUC1SS0N...D3C3NTR4L1S3",
           story:
             "Charcuterie familiale depuis 1847, pionnière de l'adoption blockchain en 2016. Chaque saucisson est tokenisé dès sa fabrication. Notre processus d'affinage est enregistré sur la blockchain toutes les 6 heures.",
-          image: "/src/assets/saucisson.jpeg",
+          image: "/assets/saucisson.jpeg",
         },
         productionDate: "2025-08-15",
         expirationDate: "2026-02-15",
@@ -540,7 +540,7 @@ export const boxes: Record<string, Box> = {
         id: "prod-charcuterie-002",
         name: "Chorizo Ibérique Premium",
         type: "charcuterie",
-        image: "/src/assets/chorizo.png",
+        image: "/assets/chorizo.png",
         producer: {
           name: "Tokenized Tapas - Casa del Blockchain",
           location: "Crypto Valley, Digital Pyrenees (64)",
@@ -553,7 +553,7 @@ export const boxes: Record<string, Box> = {
           walletAddress: "0xCH0R1Z0...1B3R1C0",
           story:
             "Maison fondée en 1923, digitalisée en 2018. Nos porcs ibériques sont élevés en liberté dans des dehesas connectées. Chaque animal dispose d'un wallet NFT unique. Le fumage au paprika est surveillé par capteurs IoT blockchain.",
-          image: "/src/assets/chorizo.png",
+          image: "/assets/chorizo.png",
         },
         productionDate: "2025-09-01",
         expirationDate: "2026-03-01",
@@ -629,7 +629,7 @@ export const boxes: Record<string, Box> = {
         id: "prod-pain-001",
         name: "Baguette Tradition au Levain",
         type: "charcuterie",
-        image: "/src/assets/baguette.jpeg",
+        image: "/assets/baguette.jpeg",
         producer: {
           name: "Boulangerie Satoshi Nakamoto",
           location: "Bitcoin Boulevard, Blockchain City (75)",
@@ -642,7 +642,7 @@ export const boxes: Record<string, Box> = {
           walletAddress: "0xB4GU3TT3...L3V41N",
           story:
             "Boulangerie artisanale depuis 2009 (année de naissance du Bitcoin !). Notre four à bois est connecté à la blockchain pour tracer chaque cuisson. Farine bio issue d'agriculteurs tokenisés. Levain naturel de 150 ans conservé en cold wallet biologique.",
-          image: "/src/assets/baguette.jpeg",
+          image: "/assets/baguette.jpeg",
         },
         productionDate: "2025-11-20",
         expirationDate: "2025-11-22",
@@ -727,7 +727,7 @@ export const boxes: Record<string, Box> = {
         id: "prod-fromage-002",
         name: "Emmental Français Grand Cru",
         type: "fromage",
-        image: "/src/assets/emmental.jpeg",
+        image: "/assets/emmental.jpeg",
         producer: {
           name: "Fromagerie Ethereum Alps",
           location: "Crypto Mountain, Smart Contract Valley (74)",
@@ -740,7 +740,7 @@ export const boxes: Record<string, Box> = {
           walletAddress: "0x3MM3NT4L...GR4NDcru",
           story:
             "Fromagerie coopérative fondée en 1892, révolutionnée par la blockchain en 2017. 67 producteurs laitiers connectés. Chaque meule de 80kg est tracée par RFID blockchain. Cave d'affinage à 15°C avec monitoring en temps réel sur smart contracts. Les trous (yeux) sont même comptés par IA !",
-          image: "/src/assets/emmental.jpeg",
+          image: "/assets/emmental.jpeg",
         },
         productionDate: "2025-05-10",
         expirationDate: "2026-08-10",
