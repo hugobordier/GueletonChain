@@ -434,7 +434,7 @@ export const boxes: Record<string, Box> = {
     uuid: "b8e9c3f2-7d4a-4b9e-8f3a-2e7d9c6a4b8e",
     name: "Box Présentation Blockchain",
     edition: "Édition Spéciale EPF - Novembre 2025",
-    deliveryDate: "24-11-2025",
+    deliveryDate: "2025-11-24",
     memberNFT: "0xBLOCK2025...CHAIN",
     tokensEarned: 250,
     communityVote: {
